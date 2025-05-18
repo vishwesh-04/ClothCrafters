@@ -1,0 +1,13 @@
+.translucent {
+    backdrop-filter: blur(2.5px);
+    -webkit-backdrop-filter: blur(2.5px);
+}
+
+.bg-warm {
+    background-color: #f5f5dc;
+}
+
+.push-down:hover {
+    transform: scale(0.95);
+    transition: transform 0.35s ease-in;
+}

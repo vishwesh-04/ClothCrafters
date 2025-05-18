@@ -1,0 +1,14 @@
+/* globals.css */
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+}
+
+.global-background {
+  background-color: #f5f5dc; /* Example: Beige/Linen */
+  /* Or background-image, etc. */
+  min-height: 100vh; /* Ensure full viewport coverage */
+}
