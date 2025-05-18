@@ -13,7 +13,7 @@ export default function Products() {
     const [error, setError] = useState(null);
     const [prodList, setProdList] = useState([]);
     const [sortOpt, setSortOpt] = useState('');
-    const [windowWidth, setWindowWidth] = useState(null)
+    const [windowWidth, setWindowWidth] = useState(1200)
 
     // fetchProd function
 
